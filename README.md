@@ -50,4 +50,4 @@
 
 ## 보고서 전문 링크
 
-* 보고서 : 
+* 보고서 : https://github.com/Gaeul5/statistics-data-comp/blob/6b5364b8552f9e0d38dcd59d5e8a3e9f17656b6c/submit%20report.pdf

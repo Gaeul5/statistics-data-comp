@@ -1,2 +1,2 @@
 # statistics-data-comp
-통계데이터 활용대회
+2024 통계데이터 활용대회
